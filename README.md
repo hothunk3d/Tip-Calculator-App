@@ -6,9 +6,7 @@ but if you have a friend to share the bill with it returns $55.00.
 
 These are the 3 functions used in the code 👇
 =========================================
-calculateBill()
-increasePeople()
-decreasePeople()
+calculateBill(), increasePeople(), decreasePeople(), 
 
 These functions are hard coded in the HTML. 
 
