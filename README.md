@@ -1,7 +1,7 @@
 # Tip-Calculator-App
 This code calculates the Total Bill plus Tip, and it can also divide the total bill amongst Number of friends equally.
 
-For Example: If your Bill is $100 and your Tip is 10%. Then the code returns $110.00 as your Total Bill.
+For Example: If your Bill is $100 and your Tip is 10%. Then the code returns $110.00 as your Total Bill,
 but if you have a friend to share the bill with it returns $55.00.
 
 These are the 3 functions used in the code 👇
