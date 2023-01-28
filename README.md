@@ -12,7 +12,10 @@ These functions are hard coded in the HTML.
 
 These are all the DIV ID's you're gonna need access to 👇
 ========================================================
-#1 ID 👉 'billTotalInput' = User input for bill total
-#2 ID 👉 'tipInput' = User input for tip
-#3 ID 👉 'numberOfPeople' = Current number of people you're splitting the bill between
-#4 ID 👉 'perPersonTotal' = Total dollar value owed per person
+#1 ID 👉 'billTotalInput' = User input for bill total, 
+
+#2 ID 👉 'tipInput' = User input for tip, 
+
+#3 ID 👉 'numberOfPeople' = Current number of people you're splitting the bill between, 
+
+#4 ID 👉 'perPersonTotal' = Total dollar value owed per person, 
